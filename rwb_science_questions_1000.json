@@ -1,0 +1,5002 @@
+[
+    {
+        "clue": "What programming language is named after a snake?",
+        "answer": "PYTHON",
+        "category": "technology"
+    },
+    {
+        "clue": "What open source operating system is Unix-like?",
+        "answer": "LINUX",
+        "category": "technology"
+    },
+    {
+        "clue": "What is the brain of a computer called?",
+        "answer": "CPU",
+        "category": "technology"
+    },
+    {
+        "clue": "What memory stores data temporarily?",
+        "answer": "RAM",
+        "category": "technology"
+    },
+    {
+        "clue": "What does a computer follow to run a program?",
+        "answer": "CODE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is information for computers called?",
+        "answer": "DATA",
+        "category": "technology"
+    },
+    {
+        "clue": "What device shows images and text?",
+        "answer": "SCREEN",
+        "category": "technology"
+    },
+    {
+        "clue": "What device lets you type letters?",
+        "answer": "KEYBOARD",
+        "category": "technology"
+    },
+    {
+        "clue": "What device points and clicks on screen?",
+        "answer": "MOUSE",
+        "category": "technology"
+    },
+    {
+        "clue": "What machine can be programmed?",
+        "answer": "ROBOT",
+        "category": "technology"
+    },
+    {
+        "clue": "What kind of program protects stored passwords?",
+        "answer": "VAULT",
+        "category": "technology"
+    },
+    {
+        "clue": "What word means a secret login word?",
+        "answer": "PASSWORD",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a time based login code called?",
+        "answer": "TOTP",
+        "category": "technology"
+    },
+    {
+        "clue": "What storage device has no moving parts?",
+        "answer": "SSD",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a file of saved code called?",
+        "answer": "SCRIPT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a visual app window called?",
+        "answer": "GUI",
+        "category": "technology"
+    },
+    {
+        "clue": "What stores organized digital information?",
+        "answer": "DATABASE",
+        "category": "technology"
+    },
+    {
+        "clue": "What computer provides services to others?",
+        "answer": "SERVER",
+        "category": "technology"
+    },
+    {
+        "clue": "What computer or app requests services?",
+        "answer": "CLIENT",
+        "category": "technology"
+    },
+    {
+        "clue": "What connects computers together?",
+        "answer": "NETWORK",
+        "category": "technology"
+    },
+    {
+        "clue": "What device directs network traffic?",
+        "answer": "ROUTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What device connects a home network to internet service?",
+        "answer": "MODEM",
+        "category": "technology"
+    },
+    {
+        "clue": "What wireless network technology is common at home?",
+        "answer": "WIFI",
+        "category": "technology"
+    },
+    {
+        "clue": "What app displays web pages?",
+        "answer": "BROWSER",
+        "category": "technology"
+    },
+    {
+        "clue": "What small data file can a website store?",
+        "answer": "COOKIE",
+        "category": "technology"
+    },
+    {
+        "clue": "What stores temporary data for faster access?",
+        "answer": "CACHE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a saved copy of data?",
+        "answer": "BACKUP",
+        "category": "technology"
+    },
+    {
+        "clue": "What protects information by scrambling it?",
+        "answer": "ENCRYPTION",
+        "category": "technology"
+    },
+    {
+        "clue": "What security system filters network traffic?",
+        "answer": "FIREWALL",
+        "category": "technology"
+    },
+    {
+        "clue": "What mobile operating system is made by Google?",
+        "answer": "ANDROID",
+        "category": "technology"
+    },
+    {
+        "clue": "What is the core of an operating system?",
+        "answer": "KERNEL",
+        "category": "technology"
+    },
+    {
+        "clue": "What program lets users type commands?",
+        "answer": "TERMINAL",
+        "category": "technology"
+    },
+    {
+        "clue": "What text based program interface is common in coding?",
+        "answer": "CONSOLE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is bundled software for installation called?",
+        "answer": "PACKAGE",
+        "category": "technology"
+    },
+    {
+        "clue": "What reusable code collection helps programs?",
+        "answer": "LIBRARY",
+        "category": "technology"
+    },
+    {
+        "clue": "What named block of code performs a task?",
+        "answer": "FUNCTION",
+        "category": "technology"
+    },
+    {
+        "clue": "What stores a changing value in code?",
+        "answer": "VARIABLE",
+        "category": "technology"
+    },
+    {
+        "clue": "What repeats instructions in programming?",
+        "answer": "LOOP",
+        "category": "technology"
+    },
+    {
+        "clue": "What data structure stores ordered items?",
+        "answer": "ARRAY",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python structure stores many items?",
+        "answer": "LIST",
+        "category": "technology"
+    },
+    {
+        "clue": "What data type stores text?",
+        "answer": "STRING",
+        "category": "technology"
+    },
+    {
+        "clue": "What data type can be true or false?",
+        "answer": "BOOLEAN",
+        "category": "technology"
+    },
+    {
+        "clue": "What number type has no fraction part?",
+        "answer": "INTEGER",
+        "category": "math"
+    },
+    {
+        "clue": "What number type can contain decimals?",
+        "answer": "FLOAT",
+        "category": "technology"
+    },
+    {
+        "clue": "What programming item can hold data and behavior?",
+        "answer": "OBJECT",
+        "category": "technology"
+    },
+    {
+        "clue": "What blueprint can create objects?",
+        "answer": "CLASS",
+        "category": "technology"
+    },
+    {
+        "clue": "What function belongs to an object?",
+        "answer": "METHOD",
+        "category": "technology"
+    },
+    {
+        "clue": "What file can hold Python code for import?",
+        "answer": "MODULE",
+        "category": "technology"
+    },
+    {
+        "clue": "What command brings code from another module?",
+        "answer": "IMPORT",
+        "category": "technology"
+    },
+    {
+        "clue": "What do programmers do to find errors?",
+        "answer": "DEBUG",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a problem in code called?",
+        "answer": "ERROR",
+        "category": "technology"
+    },
+    {
+        "clue": "What rules define how code must be written?",
+        "answer": "SYNTAX",
+        "category": "technology"
+    },
+    {
+        "clue": "What tool turns source code into machine code?",
+        "answer": "COMPILER",
+        "category": "technology"
+    },
+    {
+        "clue": "What program is used to write code?",
+        "answer": "EDITOR",
+        "category": "technology"
+    },
+    {
+        "clue": "What platform is often used to share code?",
+        "answer": "GITHUB",
+        "category": "technology"
+    },
+    {
+        "clue": "What version control tool tracks code changes?",
+        "answer": "GIT",
+        "category": "technology"
+    },
+    {
+        "clue": "What saved change is recorded in Git?",
+        "answer": "COMMIT",
+        "category": "technology"
+    },
+    {
+        "clue": "What separate line of development exists in Git?",
+        "answer": "BRANCH",
+        "category": "technology"
+    },
+    {
+        "clue": "What combines code changes in version control?",
+        "answer": "MERGE",
+        "category": "technology"
+    },
+    {
+        "clue": "What Git action downloads changes?",
+        "answer": "PULL",
+        "category": "technology"
+    },
+    {
+        "clue": "What Git action uploads changes?",
+        "answer": "PUSH",
+        "category": "technology"
+    },
+    {
+        "clue": "What text format stores structured data with keys?",
+        "answer": "JSON",
+        "category": "technology"
+    },
+    {
+        "clue": "What simple table file format uses commas?",
+        "answer": "CSV",
+        "category": "technology"
+    },
+    {
+        "clue": "What language structures web pages?",
+        "answer": "HTML",
+        "category": "technology"
+    },
+    {
+        "clue": "What language styles web pages?",
+        "answer": "CSS",
+        "category": "technology"
+    },
+    {
+        "clue": "What language adds behavior to web pages?",
+        "answer": "JAVASCRIPT",
+        "category": "technology"
+    },
+    {
+        "clue": "What language is used to query databases?",
+        "answer": "SQL",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python GUI toolkit is included with Python?",
+        "answer": "TKINTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python library is used for games?",
+        "answer": "PYGAME",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python library is used for data tables?",
+        "answer": "PANDAS",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python library is used for numeric arrays?",
+        "answer": "NUMPY",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python framework can build mobile apps?",
+        "answer": "KIVY",
+        "category": "technology"
+    },
+    {
+        "clue": "What lightweight code editor is common on Linux?",
+        "answer": "GEANY",
+        "category": "technology"
+    },
+    {
+        "clue": "What beginner friendly Python editor is often used?",
+        "answer": "THONNY",
+        "category": "technology"
+    },
+    {
+        "clue": "What tool installs Python packages?",
+        "answer": "PIP",
+        "category": "technology"
+    },
+    {
+        "clue": "What Python environment keeps packages separate?",
+        "answer": "VENV",
+        "category": "technology"
+    },
+    {
+        "clue": "What command interface runs text commands?",
+        "answer": "SHELL",
+        "category": "technology"
+    },
+    {
+        "clue": "What common Linux shell is widely used?",
+        "answer": "BASH",
+        "category": "technology"
+    },
+    {
+        "clue": "What controls access to files?",
+        "answer": "PERMISSION",
+        "category": "technology"
+    },
+    {
+        "clue": "What holds files on a computer?",
+        "answer": "FOLDER",
+        "category": "technology"
+    },
+    {
+        "clue": "What named data item is stored on disk?",
+        "answer": "FILE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is the smallest screen picture element?",
+        "answer": "PIXEL",
+        "category": "technology"
+    },
+    {
+        "clue": "What is the smallest unit of digital data?",
+        "answer": "BIT",
+        "category": "technology"
+    },
+    {
+        "clue": "What unit is usually eight bits?",
+        "answer": "BYTE",
+        "category": "technology"
+    },
+    {
+        "clue": "What number system uses zero and one?",
+        "answer": "BINARY",
+        "category": "technology"
+    },
+    {
+        "clue": "What base sixteen number format is common in computing?",
+        "answer": "HEX",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a step by step method for solving a problem?",
+        "answer": "ALGORITHM",
+        "category": "technology"
+    },
+    {
+        "clue": "What reasoning system guides decisions in code?",
+        "answer": "LOGIC",
+        "category": "technology"
+    },
+    {
+        "clue": "What data enters a program?",
+        "answer": "INPUT",
+        "category": "technology"
+    },
+    {
+        "clue": "What data leaves a program?",
+        "answer": "OUTPUT",
+        "category": "technology"
+    },
+    {
+        "clue": "What UI control is pressed by a user?",
+        "answer": "BUTTON",
+        "category": "technology"
+    },
+    {
+        "clue": "What rectangular area shows an app?",
+        "answer": "WINDOW",
+        "category": "technology"
+    },
+    {
+        "clue": "What small picture represents an app or file?",
+        "answer": "ICON",
+        "category": "technology"
+    },
+    {
+        "clue": "What UI list gives choices?",
+        "answer": "MENU",
+        "category": "technology"
+    },
+    {
+        "clue": "What UI control adjusts a value?",
+        "answer": "SLIDER",
+        "category": "technology"
+    },
+    {
+        "clue": "What UI box can be ticked on or off?",
+        "answer": "CHECKBOX",
+        "category": "technology"
+    },
+    {
+        "clue": "What UI control moves through long content?",
+        "answer": "SCROLLBAR",
+        "category": "technology"
+    },
+    {
+        "clue": "What marks the current typing position?",
+        "answer": "CURSOR",
+        "category": "technology"
+    },
+    {
+        "clue": "What temporary area stores copied text?",
+        "answer": "CLIPBOARD",
+        "category": "technology"
+    },
+    {
+        "clue": "What beginner friendly Linux distribution uses Mint?",
+        "answer": "LINUXMINT",
+        "category": "technology"
+    },
+    {
+        "clue": "What popular Linux distribution is based on Debian?",
+        "answer": "UBUNTU",
+        "category": "technology"
+    },
+    {
+        "clue": "What Linux distribution is known for stability?",
+        "answer": "DEBIAN",
+        "category": "technology"
+    },
+    {
+        "clue": "What Linux distribution is sponsored by Red Hat?",
+        "answer": "FEDORA",
+        "category": "technology"
+    },
+    {
+        "clue": "What rolling release Linux distribution is famous?",
+        "answer": "ARCH",
+        "category": "technology"
+    },
+    {
+        "clue": "What Linux distribution is known for security testing?",
+        "answer": "KALI",
+        "category": "technology"
+    },
+    {
+        "clue": "What small computer is popular for learning Linux?",
+        "answer": "RASPBERRYPI",
+        "category": "technology"
+    },
+    {
+        "clue": "What microcontroller platform is popular for electronics?",
+        "answer": "ARDUINO",
+        "category": "technology"
+    },
+    {
+        "clue": "What device detects something in the environment?",
+        "answer": "SENSOR",
+        "category": "technology"
+    },
+    {
+        "clue": "What device creates motion from energy?",
+        "answer": "MOTOR",
+        "category": "technology"
+    },
+    {
+        "clue": "What electronic part emits light?",
+        "answer": "LED",
+        "category": "electronics"
+    },
+    {
+        "clue": "What component resists electric current?",
+        "answer": "RESISTOR",
+        "category": "electronics"
+    },
+    {
+        "clue": "What component stores electric charge?",
+        "answer": "CAPACITOR",
+        "category": "electronics"
+    },
+    {
+        "clue": "What component can amplify or switch signals?",
+        "answer": "TRANSISTOR",
+        "category": "electronics"
+    },
+    {
+        "clue": "What component allows current one way?",
+        "answer": "DIODE",
+        "category": "electronics"
+    },
+    {
+        "clue": "What path allows electric current to flow?",
+        "answer": "CIRCUIT",
+        "category": "electronics"
+    },
+    {
+        "clue": "What electrical push moves charge?",
+        "answer": "VOLTAGE",
+        "category": "electronics"
+    },
+    {
+        "clue": "What flow of electric charge is measured in amperes?",
+        "answer": "CURRENT",
+        "category": "electronics"
+    },
+    {
+        "clue": "What opposition to electric current is measured in ohms?",
+        "answer": "RESISTANCE",
+        "category": "electronics"
+    },
+    {
+        "clue": "What device stores chemical energy for electricity?",
+        "answer": "BATTERY",
+        "category": "electronics"
+    },
+    {
+        "clue": "What reference point is often zero volts?",
+        "answer": "GROUND",
+        "category": "electronics"
+    },
+    {
+        "clue": "What changing electrical value can carry information?",
+        "answer": "SIGNAL",
+        "category": "electronics"
+    },
+    {
+        "clue": "What device sends or receives radio waves?",
+        "answer": "ANTENNA",
+        "category": "electronics"
+    },
+    {
+        "clue": "What technology uses electromagnetic waves for communication?",
+        "answer": "RADIO",
+        "category": "electronics"
+    },
+    {
+        "clue": "What repeating disturbance carries energy?",
+        "answer": "WAVE",
+        "category": "physics"
+    },
+    {
+        "clue": "What form of energy can we see?",
+        "answer": "LIGHT",
+        "category": "physics"
+    },
+    {
+        "clue": "What form of energy can we hear?",
+        "answer": "SOUND",
+        "category": "physics"
+    },
+    {
+        "clue": "What focused beam of light is used in scanners?",
+        "answer": "LASER",
+        "category": "physics"
+    },
+    {
+        "clue": "What particle of light carries energy?",
+        "answer": "PHOTON",
+        "category": "physics"
+    },
+    {
+        "clue": "What small particle has negative charge?",
+        "answer": "ELECTRON",
+        "category": "physics"
+    },
+    {
+        "clue": "What particle has positive charge?",
+        "answer": "PROTON",
+        "category": "physics"
+    },
+    {
+        "clue": "What neutral particle is in an atomic nucleus?",
+        "answer": "NEUTRON",
+        "category": "physics"
+    },
+    {
+        "clue": "What tiny unit of matter is made of particles?",
+        "answer": "ATOM",
+        "category": "physics"
+    },
+    {
+        "clue": "What is formed when atoms bond together?",
+        "answer": "MOLECULE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What atom or molecule has electric charge?",
+        "answer": "ION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What state of matter contains free charged particles?",
+        "answer": "PLASMA",
+        "category": "physics"
+    },
+    {
+        "clue": "What state of matter keeps its shape?",
+        "answer": "SOLID",
+        "category": "physics"
+    },
+    {
+        "clue": "What state of matter flows but keeps volume?",
+        "answer": "LIQUID",
+        "category": "physics"
+    },
+    {
+        "clue": "What state of matter expands to fill space?",
+        "answer": "GAS",
+        "category": "physics"
+    },
+    {
+        "clue": "What ability lets work be done?",
+        "answer": "ENERGY",
+        "category": "physics"
+    },
+    {
+        "clue": "What push or pull changes motion?",
+        "answer": "FORCE",
+        "category": "physics"
+    },
+    {
+        "clue": "What amount of matter is in an object?",
+        "answer": "MASS",
+        "category": "physics"
+    },
+    {
+        "clue": "What force is caused by gravity on mass?",
+        "answer": "WEIGHT",
+        "category": "physics"
+    },
+    {
+        "clue": "What force pulls objects toward Earth?",
+        "answer": "GRAVITY",
+        "category": "physics"
+    },
+    {
+        "clue": "What force resists motion between surfaces?",
+        "answer": "FRICTION",
+        "category": "physics"
+    },
+    {
+        "clue": "What tendency resists changes in motion?",
+        "answer": "INERTIA",
+        "category": "physics"
+    },
+    {
+        "clue": "What is mass times velocity?",
+        "answer": "MOMENTUM",
+        "category": "physics"
+    },
+    {
+        "clue": "What is speed with direction?",
+        "answer": "VELOCITY",
+        "category": "physics"
+    },
+    {
+        "clue": "What tells how fast something moves?",
+        "answer": "SPEED",
+        "category": "physics"
+    },
+    {
+        "clue": "What is change in velocity over time?",
+        "answer": "ACCELERATION",
+        "category": "physics"
+    },
+    {
+        "clue": "What word means motion energy?",
+        "answer": "KINETIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What word means stored energy?",
+        "answer": "POTENTIAL",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of energy?",
+        "answer": "JOULE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of force?",
+        "answer": "NEWTON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of power?",
+        "answer": "WATT",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of voltage?",
+        "answer": "VOLT",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of electric current?",
+        "answer": "AMPERE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of electric resistance?",
+        "answer": "OHM",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of frequency?",
+        "answer": "HERTZ",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of pressure?",
+        "answer": "PASCAL",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of magnetic field strength?",
+        "answer": "TESLA",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of magnetic flux?",
+        "answer": "WEBER",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of electric charge?",
+        "answer": "COULOMB",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of capacitance?",
+        "answer": "FARAD",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the unit of inductance?",
+        "answer": "HENRY",
+        "category": "physics"
+    },
+    {
+        "clue": "What unit measures visible light output?",
+        "answer": "LUMEN",
+        "category": "physics"
+    },
+    {
+        "clue": "What unit can measure sound level?",
+        "answer": "DECIBEL",
+        "category": "physics"
+    },
+    {
+        "clue": "What is cycles per second called?",
+        "answer": "FREQUENCY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is wave height called?",
+        "answer": "AMPLITUDE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is distance between wave peaks?",
+        "answer": "WAVELENGTH",
+        "category": "physics"
+    },
+    {
+        "clue": "What happens when light bounces?",
+        "answer": "REFLECTION",
+        "category": "physics"
+    },
+    {
+        "clue": "What happens when light bends through a medium?",
+        "answer": "REFRACTION",
+        "category": "physics"
+    },
+    {
+        "clue": "What spreading of waves occurs around edges?",
+        "answer": "DIFFRACTION",
+        "category": "physics"
+    },
+    {
+        "clue": "What object creates a magnetic field?",
+        "answer": "MAGNET",
+        "category": "physics"
+    },
+    {
+        "clue": "What force is linked to magnets?",
+        "answer": "MAGNETISM",
+        "category": "physics"
+    },
+    {
+        "clue": "What device uses magnetism to point north?",
+        "answer": "COMPASS",
+        "category": "physics"
+    },
+    {
+        "clue": "What glass object can split white light?",
+        "answer": "PRISM",
+        "category": "physics"
+    },
+    {
+        "clue": "What transparent object bends light to focus?",
+        "answer": "LENS",
+        "category": "physics"
+    },
+    {
+        "clue": "What surface reflects light?",
+        "answer": "MIRROR",
+        "category": "physics"
+    },
+    {
+        "clue": "What energy is transferred by temperature difference?",
+        "answer": "HEAT",
+        "category": "physics"
+    },
+    {
+        "clue": "What tells how hot or cold something is?",
+        "answer": "TEMPERATURE",
+        "category": "physics"
+    },
+    {
+        "clue": "What word means related to heat?",
+        "answer": "THERMAL",
+        "category": "physics"
+    },
+    {
+        "clue": "What is force per area called?",
+        "answer": "PRESSURE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is mass per volume called?",
+        "answer": "DENSITY",
+        "category": "physics"
+    },
+    {
+        "clue": "What amount of space does an object occupy?",
+        "answer": "VOLUME",
+        "category": "physics"
+    },
+    {
+        "clue": "What measurement covers a flat surface?",
+        "answer": "AREA",
+        "category": "math"
+    },
+    {
+        "clue": "What measurement tells how long something is?",
+        "answer": "LENGTH",
+        "category": "math"
+    },
+    {
+        "clue": "What dimension orders events?",
+        "answer": "TIME",
+        "category": "physics"
+    },
+    {
+        "clue": "What is the universe beyond Earth often called?",
+        "answer": "SPACE",
+        "category": "space"
+    },
+    {
+        "clue": "What planet do we live on?",
+        "answer": "EARTH",
+        "category": "space"
+    },
+    {
+        "clue": "What star is at the center of our solar system?",
+        "answer": "SUN",
+        "category": "space"
+    },
+    {
+        "clue": "What natural satellite orbits Earth?",
+        "answer": "MOON",
+        "category": "space"
+    },
+    {
+        "clue": "What planet is known as the red planet?",
+        "answer": "MARS",
+        "category": "space"
+    },
+    {
+        "clue": "What planet is known for extreme greenhouse heat?",
+        "answer": "VENUS",
+        "category": "space"
+    },
+    {
+        "clue": "What planet is closest to the Sun?",
+        "answer": "MERCURY",
+        "category": "space"
+    },
+    {
+        "clue": "What is the largest planet in our solar system?",
+        "answer": "JUPITER",
+        "category": "space"
+    },
+    {
+        "clue": "What planet has famous rings?",
+        "answer": "SATURN",
+        "category": "space"
+    },
+    {
+        "clue": "What planet rotates almost on its side?",
+        "answer": "URANUS",
+        "category": "space"
+    },
+    {
+        "clue": "What planet is farthest from the Sun?",
+        "answer": "NEPTUNE",
+        "category": "space"
+    },
+    {
+        "clue": "What dwarf planet was once called the ninth planet?",
+        "answer": "PLUTO",
+        "category": "space"
+    },
+    {
+        "clue": "What path does a planet follow around a star?",
+        "answer": "ORBIT",
+        "category": "space"
+    },
+    {
+        "clue": "What icy object can grow a tail near the Sun?",
+        "answer": "COMET",
+        "category": "space"
+    },
+    {
+        "clue": "What small rocky body orbits the Sun?",
+        "answer": "ASTEROID",
+        "category": "space"
+    },
+    {
+        "clue": "What space rock burns in the atmosphere?",
+        "answer": "METEOR",
+        "category": "space"
+    },
+    {
+        "clue": "What meteor reaches the ground?",
+        "answer": "METEORITE",
+        "category": "space"
+    },
+    {
+        "clue": "What huge system of stars contains our Sun?",
+        "answer": "GALAXY",
+        "category": "space"
+    },
+    {
+        "clue": "What cloud of gas and dust exists in space?",
+        "answer": "NEBULA",
+        "category": "space"
+    },
+    {
+        "clue": "What spinning neutron star emits pulses?",
+        "answer": "PULSAR",
+        "category": "space"
+    },
+    {
+        "clue": "What very bright active galactic center is called?",
+        "answer": "QUASAR",
+        "category": "space"
+    },
+    {
+        "clue": "What region has gravity so strong light cannot escape?",
+        "answer": "BLACKHOLE",
+        "category": "space"
+    },
+    {
+        "clue": "What powerful exploding star event is called?",
+        "answer": "SUPERNOVA",
+        "category": "space"
+    },
+    {
+        "clue": "What star suddenly brightens in an eruption?",
+        "answer": "NOVA",
+        "category": "space"
+    },
+    {
+        "clue": "What word can mean the ordered universe?",
+        "answer": "COSMOS",
+        "category": "space"
+    },
+    {
+        "clue": "What includes all space, time, matter, and energy?",
+        "answer": "UNIVERSE",
+        "category": "space"
+    },
+    {
+        "clue": "What science studies the universe?",
+        "answer": "ASTRONOMY",
+        "category": "space"
+    },
+    {
+        "clue": "What instrument makes distant objects look closer?",
+        "answer": "TELESCOPE",
+        "category": "space"
+    },
+    {
+        "clue": "What vehicle can travel into space?",
+        "answer": "ROCKET",
+        "category": "space"
+    },
+    {
+        "clue": "What object orbits a planet or star?",
+        "answer": "SATELLITE",
+        "category": "space"
+    },
+    {
+        "clue": "What happens when one body blocks another in space?",
+        "answer": "ECLIPSE",
+        "category": "space"
+    },
+    {
+        "clue": "What bowl shaped hollow can be made by impact?",
+        "answer": "CRATER",
+        "category": "space"
+    },
+    {
+        "clue": "What loose dust and rock cover the Moon?",
+        "answer": "REGOLITH",
+        "category": "space"
+    },
+    {
+        "clue": "What word means related to the Sun?",
+        "answer": "SOLAR",
+        "category": "space"
+    },
+    {
+        "clue": "What word means related to the Moon?",
+        "answer": "LUNAR",
+        "category": "space"
+    },
+    {
+        "clue": "What word means related to stars?",
+        "answer": "STELLAR",
+        "category": "space"
+    },
+    {
+        "clue": "What large body orbits a star?",
+        "answer": "PLANET",
+        "category": "space"
+    },
+    {
+        "clue": "What planet orbits another star?",
+        "answer": "EXOPLANET",
+        "category": "space"
+    },
+    {
+        "clue": "What zone may allow liquid water on planets?",
+        "answer": "HABITABLE",
+        "category": "space"
+    },
+    {
+        "clue": "What distance does light travel in one year?",
+        "answer": "LIGHTYEAR",
+        "category": "space"
+    },
+    {
+        "clue": "What astronomy distance unit is about three point two six light years?",
+        "answer": "PARSEC",
+        "category": "space"
+    },
+    {
+        "clue": "What is the study of living things called?",
+        "answer": "BIOLOGY",
+        "category": "biology"
+    },
+    {
+        "clue": "What is the basic unit of life?",
+        "answer": "CELL",
+        "category": "biology"
+    },
+    {
+        "clue": "What carries inherited traits?",
+        "answer": "GENE",
+        "category": "biology"
+    },
+    {
+        "clue": "What molecule stores genetic instructions?",
+        "answer": "DNA",
+        "category": "biology"
+    },
+    {
+        "clue": "What molecule helps carry genetic instructions?",
+        "answer": "RNA",
+        "category": "biology"
+    },
+    {
+        "clue": "What molecule is built from amino acids?",
+        "answer": "PROTEIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What protein speeds up chemical reactions in cells?",
+        "answer": "ENZYME",
+        "category": "biology"
+    },
+    {
+        "clue": "What organ pumps blood?",
+        "answer": "HEART",
+        "category": "biology"
+    },
+    {
+        "clue": "What organ controls the body?",
+        "answer": "BRAIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What organ helps breathing?",
+        "answer": "LUNG",
+        "category": "biology"
+    },
+    {
+        "clue": "What organ filters blood?",
+        "answer": "KIDNEY",
+        "category": "biology"
+    },
+    {
+        "clue": "What organ processes toxins and nutrients?",
+        "answer": "LIVER",
+        "category": "biology"
+    },
+    {
+        "clue": "What protects the outside of the body?",
+        "answer": "SKIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What hard structure supports the body?",
+        "answer": "BONE",
+        "category": "biology"
+    },
+    {
+        "clue": "What tissue moves bones?",
+        "answer": "MUSCLE",
+        "category": "biology"
+    },
+    {
+        "clue": "What carries signals through the body?",
+        "answer": "NERVE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a nerve cell called?",
+        "answer": "NEURON",
+        "category": "biology"
+    },
+    {
+        "clue": "What liquid carries oxygen around the body?",
+        "answer": "BLOOD",
+        "category": "biology"
+    },
+    {
+        "clue": "What body defense system fights infection?",
+        "answer": "IMMUNE",
+        "category": "biology"
+    },
+    {
+        "clue": "What tiny infectious agent uses living cells?",
+        "answer": "VIRUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What single celled microbes can live almost everywhere?",
+        "answer": "BACTERIA",
+        "category": "biology"
+    },
+    {
+        "clue": "What kingdom includes mushrooms and molds?",
+        "answer": "FUNGUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What simple photosynthetic organisms often live in water?",
+        "answer": "ALGAE",
+        "category": "biology"
+    },
+    {
+        "clue": "What living thing can often make food from light?",
+        "answer": "PLANT",
+        "category": "biology"
+    },
+    {
+        "clue": "What living thing eats other organisms?",
+        "answer": "ANIMAL",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a basic unit of biological classification?",
+        "answer": "SPECIES",
+        "category": "biology"
+    },
+    {
+        "clue": "What classification rank is above species?",
+        "answer": "GENUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What classification rank is above genus?",
+        "answer": "FAMILY",
+        "category": "biology"
+    },
+    {
+        "clue": "What classification rank is above family?",
+        "answer": "ORDER",
+        "category": "biology"
+    },
+    {
+        "clue": "What classification rank is below kingdom?",
+        "answer": "PHYLUM",
+        "category": "biology"
+    },
+    {
+        "clue": "What high biological classification rank groups organisms?",
+        "answer": "KINGDOM",
+        "category": "biology"
+    },
+    {
+        "clue": "What community of organisms interacts with an environment?",
+        "answer": "ECOSYSTEM",
+        "category": "biology"
+    },
+    {
+        "clue": "What place does an organism naturally live in?",
+        "answer": "HABITAT",
+        "category": "biology"
+    },
+    {
+        "clue": "What role does an organism have in its ecosystem?",
+        "answer": "NICHE",
+        "category": "biology"
+    },
+    {
+        "clue": "What animal hunts other animals?",
+        "answer": "PREDATOR",
+        "category": "biology"
+    },
+    {
+        "clue": "What animal is hunted by another?",
+        "answer": "PREY",
+        "category": "biology"
+    },
+    {
+        "clue": "What animal mainly eats plants?",
+        "answer": "HERBIVORE",
+        "category": "biology"
+    },
+    {
+        "clue": "What animal mainly eats meat?",
+        "answer": "CARNIVORE",
+        "category": "biology"
+    },
+    {
+        "clue": "What animal eats both plants and animals?",
+        "answer": "OMNIVORE",
+        "category": "biology"
+    },
+    {
+        "clue": "What process makes plant food from light?",
+        "answer": "PHOTOSYNTH",
+        "category": "biology"
+    },
+    {
+        "clue": "What green pigment helps plants use light?",
+        "answer": "CHLOROPHYLL",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant part captures sunlight?",
+        "answer": "LEAF",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant part anchors and absorbs water?",
+        "answer": "ROOT",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant part supports leaves and flowers?",
+        "answer": "STEM",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant part often helps reproduction?",
+        "answer": "FLOWER",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant structure can grow into a new plant?",
+        "answer": "SEED",
+        "category": "biology"
+    },
+    {
+        "clue": "What powder carries male plant cells?",
+        "answer": "POLLEN",
+        "category": "biology"
+    },
+    {
+        "clue": "What plant part often contains seeds?",
+        "answer": "FRUIT",
+        "category": "biology"
+    },
+    {
+        "clue": "What cell division makes identical cells?",
+        "answer": "MITOSIS",
+        "category": "biology"
+    },
+    {
+        "clue": "What cell division makes sex cells?",
+        "answer": "MEIOSIS",
+        "category": "biology"
+    },
+    {
+        "clue": "What change in DNA can alter traits?",
+        "answer": "MUTATION",
+        "category": "biology"
+    },
+    {
+        "clue": "What process changes species over generations?",
+        "answer": "EVOLUTION",
+        "category": "biology"
+    },
+    {
+        "clue": "What preserved remains of ancient life are called?",
+        "answer": "FOSSIL",
+        "category": "biology"
+    },
+    {
+        "clue": "What science studies matter and its reactions?",
+        "answer": "CHEMISTRY",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What pure substance has one kind of atom?",
+        "answer": "ELEMENT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance is made of bonded elements?",
+        "answer": "COMPOUND",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What combination of substances is not chemically bonded?",
+        "answer": "MIXTURE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What mixture has one substance dissolved in another?",
+        "answer": "SOLUTION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance dissolves another substance?",
+        "answer": "SOLVENT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance is dissolved in a solution?",
+        "answer": "SOLUTE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance can donate hydrogen ions?",
+        "answer": "ACID",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance can accept hydrogen ions?",
+        "answer": "BASE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What scale measures acidity?",
+        "answer": "PH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What ionic compound can form from acid and base?",
+        "answer": "SALT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the formula for table salt without spaces?",
+        "answer": "NACL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What common liquid has the formula H two O?",
+        "answer": "WATER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element is central to organic chemistry?",
+        "answer": "CARBON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What gas do humans need for breathing?",
+        "answer": "OXYGEN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What lightest element is first in the periodic table?",
+        "answer": "HYDROGEN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What noble gas fills balloons?",
+        "answer": "HELIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What metal has the symbol Na?",
+        "answer": "SODIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element combines with sodium in table salt?",
+        "answer": "CHLORINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Fe?",
+        "answer": "IRON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Cu?",
+        "answer": "COPPER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Ag?",
+        "answer": "SILVER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Au?",
+        "answer": "GOLD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Pb?",
+        "answer": "LEAD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Zn?",
+        "answer": "ZINC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element helps build bones?",
+        "answer": "CALCIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Mg?",
+        "answer": "MAGNESIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol K?",
+        "answer": "POTASSIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What gas makes up most of Earths atmosphere?",
+        "answer": "NITROGEN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What yellow element has the symbol S?",
+        "answer": "SULFUR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element is important in computer chips?",
+        "answer": "SILICON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What lightweight metal has the symbol Al?",
+        "answer": "ALUMINUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What light metal is used in many batteries?",
+        "answer": "LITHIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What noble gas is used in bright signs?",
+        "answer": "NEON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What noble gas is common in light bulbs?",
+        "answer": "ARGON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the atomic symbol I?",
+        "answer": "IODINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has the symbol Sn?",
+        "answer": "TIN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What chemistry unit counts particles?",
+        "answer": "MOLE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What word means related to moles in chemistry?",
+        "answer": "MOLAR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What joins atoms together in molecules?",
+        "answer": "BOND",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What bond involves charged ions?",
+        "answer": "IONIC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What bond shares electrons?",
+        "answer": "COVALENT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What bond occurs between metal atoms?",
+        "answer": "METALLIC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What starting substance is used in a reaction?",
+        "answer": "REACTANT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance is formed by a reaction?",
+        "answer": "PRODUCT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What speeds a reaction without being consumed?",
+        "answer": "CATALYST",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What substance conducts electricity in solution?",
+        "answer": "ELECTROLYTE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What process often involves loss of electrons?",
+        "answer": "OXIDATION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What process often involves gain of electrons?",
+        "answer": "REDUCTION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What science studies numbers and patterns?",
+        "answer": "MATH",
+        "category": "math"
+    },
+    {
+        "clue": "What is a result found by adding numbers?",
+        "answer": "SUM",
+        "category": "math"
+    },
+    {
+        "clue": "What is the result of subtraction called?",
+        "answer": "DIFFERENCE",
+        "category": "math"
+    },
+    {
+        "clue": "What is the result of division called?",
+        "answer": "QUOTIENT",
+        "category": "math"
+    },
+    {
+        "clue": "What compares two quantities by division?",
+        "answer": "RATIO",
+        "category": "math"
+    },
+    {
+        "clue": "What number shows part of a whole?",
+        "answer": "FRACTION",
+        "category": "math"
+    },
+    {
+        "clue": "What number uses a point to show parts?",
+        "answer": "DECIMAL",
+        "category": "math"
+    },
+    {
+        "clue": "What means per hundred?",
+        "answer": "PERCENT",
+        "category": "math"
+    },
+    {
+        "clue": "What number means nothing?",
+        "answer": "ZERO",
+        "category": "math"
+    },
+    {
+        "clue": "What number has exactly two factors?",
+        "answer": "PRIME",
+        "category": "math"
+    },
+    {
+        "clue": "What number divides another evenly?",
+        "answer": "FACTOR",
+        "category": "math"
+    },
+    {
+        "clue": "What number is made by multiplying?",
+        "answer": "MULTIPLE",
+        "category": "math"
+    },
+    {
+        "clue": "What number is divisible by two?",
+        "answer": "EVEN",
+        "category": "math"
+    },
+    {
+        "clue": "What number is not divisible by two?",
+        "answer": "ODD",
+        "category": "math"
+    },
+    {
+        "clue": "What is formed by two rays meeting?",
+        "answer": "ANGLE",
+        "category": "math"
+    },
+    {
+        "clue": "What unit can measure angles?",
+        "answer": "DEGREE",
+        "category": "math"
+    },
+    {
+        "clue": "What angle unit is based on circle radius?",
+        "answer": "RADIAN",
+        "category": "math"
+    },
+    {
+        "clue": "What shape has three sides?",
+        "answer": "TRIANGLE",
+        "category": "math"
+    },
+    {
+        "clue": "What shape has four equal sides?",
+        "answer": "SQUARE",
+        "category": "math"
+    },
+    {
+        "clue": "What shape has four right angles?",
+        "answer": "RECTANGLE",
+        "category": "math"
+    },
+    {
+        "clue": "What shape is perfectly round?",
+        "answer": "CIRCLE",
+        "category": "math"
+    },
+    {
+        "clue": "What line goes from circle center to edge?",
+        "answer": "RADIUS",
+        "category": "math"
+    },
+    {
+        "clue": "What line crosses a circle through its center?",
+        "answer": "DIAMETER",
+        "category": "math"
+    },
+    {
+        "clue": "What is distance around a shape?",
+        "answer": "PERIMETER",
+        "category": "math"
+    },
+    {
+        "clue": "What branch of math uses letters for numbers?",
+        "answer": "ALGEBRA",
+        "category": "math"
+    },
+    {
+        "clue": "What branch of math studies shapes?",
+        "answer": "GEOMETRY",
+        "category": "math"
+    },
+    {
+        "clue": "What branch studies change and rates?",
+        "answer": "CALCULUS",
+        "category": "math"
+    },
+    {
+        "clue": "What math field studies data?",
+        "answer": "STATISTICS",
+        "category": "math"
+    },
+    {
+        "clue": "What math field studies chance?",
+        "answer": "PROBABILITY",
+        "category": "math"
+    },
+    {
+        "clue": "What drawing shows data or relations?",
+        "answer": "GRAPH",
+        "category": "math"
+    },
+    {
+        "clue": "What reference line is used in a graph?",
+        "answer": "AXIS",
+        "category": "math"
+    },
+    {
+        "clue": "What tells steepness of a line?",
+        "answer": "SLOPE",
+        "category": "math"
+    },
+    {
+        "clue": "What quantity has size and direction?",
+        "answer": "VECTOR",
+        "category": "math"
+    },
+    {
+        "clue": "What rectangular array of numbers is called?",
+        "answer": "MATRIX",
+        "category": "math"
+    },
+    {
+        "clue": "What generalized mathematical object extends vectors?",
+        "answer": "TENSOR",
+        "category": "math"
+    },
+    {
+        "clue": "What is the atomic symbol for Helium?",
+        "answer": "HE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Lithium?",
+        "answer": "LI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 4?",
+        "answer": "BERYLLIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Beryllium?",
+        "answer": "BE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 5?",
+        "answer": "BORON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 9?",
+        "answer": "FLUORINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Neon?",
+        "answer": "NE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Sodium?",
+        "answer": "NA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Magnesium?",
+        "answer": "MG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Aluminum?",
+        "answer": "AL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Silicon?",
+        "answer": "SI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 15?",
+        "answer": "PHOSPHORUS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Chlorine?",
+        "answer": "CL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Argon?",
+        "answer": "AR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Calcium?",
+        "answer": "CA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 21?",
+        "answer": "SCANDIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Scandium?",
+        "answer": "SC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 22?",
+        "answer": "TITANIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Titanium?",
+        "answer": "TI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 23?",
+        "answer": "VANADIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 24?",
+        "answer": "CHROMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Chromium?",
+        "answer": "CR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 25?",
+        "answer": "MANGANESE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Manganese?",
+        "answer": "MN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Iron?",
+        "answer": "FE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 27?",
+        "answer": "COBALT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Cobalt?",
+        "answer": "CO",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 28?",
+        "answer": "NICKEL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Nickel?",
+        "answer": "NI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Copper?",
+        "answer": "CU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Zinc?",
+        "answer": "ZN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 31?",
+        "answer": "GALLIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Gallium?",
+        "answer": "GA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 32?",
+        "answer": "GERMANIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Germanium?",
+        "answer": "GE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 33?",
+        "answer": "ARSENIC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Arsenic?",
+        "answer": "AS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 34?",
+        "answer": "SELENIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Selenium?",
+        "answer": "SE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 35?",
+        "answer": "BROMINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Bromine?",
+        "answer": "BR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 36?",
+        "answer": "KRYPTON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Krypton?",
+        "answer": "KR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 37?",
+        "answer": "RUBIDIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Rubidium?",
+        "answer": "RB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 38?",
+        "answer": "STRONTIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Strontium?",
+        "answer": "SR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 39?",
+        "answer": "YTTRIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 40?",
+        "answer": "ZIRCONIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Zirconium?",
+        "answer": "ZR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 41?",
+        "answer": "NIOBIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Niobium?",
+        "answer": "NB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 42?",
+        "answer": "MOLYBDENUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Molybdenum?",
+        "answer": "MO",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 43?",
+        "answer": "TECHNETIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Technetium?",
+        "answer": "TC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 44?",
+        "answer": "RUTHENIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Ruthenium?",
+        "answer": "RU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 45?",
+        "answer": "RHODIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Rhodium?",
+        "answer": "RH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 46?",
+        "answer": "PALLADIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Palladium?",
+        "answer": "PD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Silver?",
+        "answer": "AG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 48?",
+        "answer": "CADMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Cadmium?",
+        "answer": "CD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 49?",
+        "answer": "INDIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Indium?",
+        "answer": "IN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Tin?",
+        "answer": "SN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 51?",
+        "answer": "ANTIMONY",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Antimony?",
+        "answer": "SB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 52?",
+        "answer": "TELLURIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Tellurium?",
+        "answer": "TE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 54?",
+        "answer": "XENON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Xenon?",
+        "answer": "XE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 55?",
+        "answer": "CESIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Cesium?",
+        "answer": "CS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 56?",
+        "answer": "BARIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Barium?",
+        "answer": "BA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 57?",
+        "answer": "LANTHANUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Lanthanum?",
+        "answer": "LA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 58?",
+        "answer": "CERIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Cerium?",
+        "answer": "CE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 59?",
+        "answer": "PRASEODYMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Praseodymium?",
+        "answer": "PR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 60?",
+        "answer": "NEODYMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Neodymium?",
+        "answer": "ND",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 61?",
+        "answer": "PROMETHIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Promethium?",
+        "answer": "PM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 62?",
+        "answer": "SAMARIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Samarium?",
+        "answer": "SM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 63?",
+        "answer": "EUROPIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Europium?",
+        "answer": "EU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 64?",
+        "answer": "GADOLINIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Gadolinium?",
+        "answer": "GD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 65?",
+        "answer": "TERBIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Terbium?",
+        "answer": "TB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 66?",
+        "answer": "DYSPROSIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Dysprosium?",
+        "answer": "DY",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 67?",
+        "answer": "HOLMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Holmium?",
+        "answer": "HO",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 68?",
+        "answer": "ERBIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Erbium?",
+        "answer": "ER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 69?",
+        "answer": "THULIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Thulium?",
+        "answer": "TM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 70?",
+        "answer": "YTTERBIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Ytterbium?",
+        "answer": "YB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 71?",
+        "answer": "LUTETIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Lutetium?",
+        "answer": "LU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 72?",
+        "answer": "HAFNIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Hafnium?",
+        "answer": "HF",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 73?",
+        "answer": "TANTALUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Tantalum?",
+        "answer": "TA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 74?",
+        "answer": "TUNGSTEN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 75?",
+        "answer": "RHENIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Rhenium?",
+        "answer": "RE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 76?",
+        "answer": "OSMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Osmium?",
+        "answer": "OS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 77?",
+        "answer": "IRIDIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Iridium?",
+        "answer": "IR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 78?",
+        "answer": "PLATINUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Platinum?",
+        "answer": "PT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Gold?",
+        "answer": "AU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Mercury?",
+        "answer": "HG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 81?",
+        "answer": "THALLIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Thallium?",
+        "answer": "TL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Lead?",
+        "answer": "PB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 83?",
+        "answer": "BISMUTH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Bismuth?",
+        "answer": "BI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 84?",
+        "answer": "POLONIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Polonium?",
+        "answer": "PO",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 85?",
+        "answer": "ASTATINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Astatine?",
+        "answer": "AT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 86?",
+        "answer": "RADON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Radon?",
+        "answer": "RN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 87?",
+        "answer": "FRANCIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Francium?",
+        "answer": "FR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 88?",
+        "answer": "RADIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Radium?",
+        "answer": "RA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 89?",
+        "answer": "ACTINIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Actinium?",
+        "answer": "AC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 90?",
+        "answer": "THORIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Thorium?",
+        "answer": "TH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 91?",
+        "answer": "PROTACTINIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Protactinium?",
+        "answer": "PA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 92?",
+        "answer": "URANIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 93?",
+        "answer": "NEPTUNIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Neptunium?",
+        "answer": "NP",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 94?",
+        "answer": "PLUTONIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Plutonium?",
+        "answer": "PU",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 95?",
+        "answer": "AMERICIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Americium?",
+        "answer": "AM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 96?",
+        "answer": "CURIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Curium?",
+        "answer": "CM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 97?",
+        "answer": "BERKELIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Berkelium?",
+        "answer": "BK",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 98?",
+        "answer": "CALIFORNIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Californium?",
+        "answer": "CF",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 99?",
+        "answer": "EINSTEINIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Einsteinium?",
+        "answer": "ES",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 100?",
+        "answer": "FERMIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Fermium?",
+        "answer": "FM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 101?",
+        "answer": "MENDELEVIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Mendelevium?",
+        "answer": "MD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 102?",
+        "answer": "NOBELIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Nobelium?",
+        "answer": "NO",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 103?",
+        "answer": "LAWRENCIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Lawrencium?",
+        "answer": "LR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Rutherfordium?",
+        "answer": "RF",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 105?",
+        "answer": "DUBNIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Dubnium?",
+        "answer": "DB",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 106?",
+        "answer": "SEABORGIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Seaborgium?",
+        "answer": "SG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 107?",
+        "answer": "BOHRIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Bohrium?",
+        "answer": "BH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 108?",
+        "answer": "HASSIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Hassium?",
+        "answer": "HS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 109?",
+        "answer": "MEITNERIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Meitnerium?",
+        "answer": "MT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 110?",
+        "answer": "DARMSTADTIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Darmstadtium?",
+        "answer": "DS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 111?",
+        "answer": "ROENTGENIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Roentgenium?",
+        "answer": "RG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 112?",
+        "answer": "COPERNICIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Copernicium?",
+        "answer": "CN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 113?",
+        "answer": "NIHONIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Nihonium?",
+        "answer": "NH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 114?",
+        "answer": "FLEROVIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Flerovium?",
+        "answer": "FL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 115?",
+        "answer": "MOSCOVIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Moscovium?",
+        "answer": "MC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 116?",
+        "answer": "LIVERMORIUM",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Livermorium?",
+        "answer": "LV",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 117?",
+        "answer": "TENNESSINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Tennessine?",
+        "answer": "TS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What element has atomic number 118?",
+        "answer": "OGANESSON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is the atomic symbol for Oganesson?",
+        "answer": "OG",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "APHELION",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "PERIHELION",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "AURORA",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "CORONA",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "PHOTOSPHERE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "CHROMOSPHERE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "HELIOSPHERE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "MAGNETAR",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "NEUTRINO",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "COSMIC",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "RADIATION",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "SPECTRUM",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "REDSHIFT",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "BLUESHIFT",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "PLANETESIMAL",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ECLIPTIC",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ZODIAC",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "EQUINOX",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "SOLSTICE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "TIDE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "TIDAL",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ASTROLABE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "OBSERVATORY",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "SKYLAB",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "VOYAGER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "CASSINI",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "HUBBLE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "WEBB",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ARTEMIS",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "APOLLO",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ORION",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "DRAGON",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "FALCON",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "LANDER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ROVER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "PROBE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "MISSION",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "LAUNCH",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "DOCKING",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "AEROSPACE",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ASTRONAUT",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "COSMONAUT",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "SPACEWALK",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "AIRLOCK",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "PAYLOAD",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "THRUSTER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "ORBITER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a space or astronomy term?",
+        "answer": "BOOSTER",
+        "category": "space"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "TISSUE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ORGAN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SYSTEM",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ORGANISM",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "MEMBRANE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "NUCLEUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "CYTOPLASM",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "RIBOSOME",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "MITOCHONDRIA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "LYSOSOME",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "VACUOLE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "CHROMOSOME",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PLASMID",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "BACTERIUM",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ARCHAEA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PROTIST",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "YEAST",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "MOLD",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SPORE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ANTIBODY",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ANTIGEN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "VACCINE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PATHOGEN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PARASITE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "HOST",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "EPIDEMIC",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PANDEMIC",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "HYGIENE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "RESPIRATION",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "DIGESTION",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "EXCRETION",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "HORMONE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "INSULIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ADRENALIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "THYROID",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PANCREAS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SPLEEN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "STOMACH",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "INTESTINE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ESOPHAGUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "TRACHEA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "BRONCHUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ALVEOLI",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ARTERY",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "VEIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "CAPILLARY",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PLATELET",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "HEMOGLOBIN",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "LYMPHOCYTE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "LEUKOCYTE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ERYTHROCYTE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "CARTILAGE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "TENDON",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "LIGAMENT",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "JOINT",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SKULL",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SPINE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "RIB",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "FEMUR",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "TIBIA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "FIBULA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "HUMERUS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "ULNA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "PELVIS",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "CLAVICLE",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a biology or life science term?",
+        "answer": "SCAPULA",
+        "category": "biology"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALKALI",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "HALOGEN",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "NOBLEGAS",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "METAL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "NONMETAL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "METALLOID",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ISOTOPE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ORBITAL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "VALENCE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PERIOD",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "GROUP",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "REACTION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "REAGENT",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "BUFFER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "TITRATION",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "INDICATOR",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALKANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALKENE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALKYNE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALCOHOL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "KETONE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ALDEHYDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ESTER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ETHER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "AMINE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "AMIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "BENZENE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "POLYMER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "MONOMER",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PLASTIC",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "NYLON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "TEFLON",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "GLUCOSE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "SUCROSE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "FRUCTOSE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "LACTOSE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "STARCH",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "CELLULOSE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "LIPID",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "AMINOACID",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PEPTIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "HYDROXIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "NITRATE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "SULFATE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "CARBONATE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PHOSPHATE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "CHLORIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "FLUORIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "BROMIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "OXIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PEROXIDE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "AMMONIA",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "METHANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ETHANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PROPANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "BUTANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "PENTANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "HEXANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "HEPTANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "OCTANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "NONANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "DECANE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ETHANOL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "METHANOL",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a chemistry term?",
+        "answer": "ACETONE",
+        "category": "chemistry"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "QUANTUM",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "RELATIVITY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ENTROPY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ENTALPY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "WORK",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "POWER",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "FIELD",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "CHARGE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "SPIN",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "BOSON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "FERMION",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "LEPTON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "QUARK",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "GLUON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "HADRON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "MESON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "BARYON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "MUON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "TAUON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ISOBAR",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ELASTIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "STRESS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "STRAIN",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "TORQUE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "IMPULSE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "SCALAR",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ROTATION",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "OSCILLATION",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "PENDULUM",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "SPRING",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "DAMPING",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "RESONANCE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "HARMONIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "FISSION",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "FUSION",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "NUCLEAR",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ATOMIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "OPTICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ACOUSTICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "MECHANICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "STATICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "DYNAMICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "KINEMATICS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ELECTRIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "MAGNETIC",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "RADIOACTIVE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "GRAVITON",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "HIGGS",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "PHASE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "FLUID",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "VISCOSITY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "BUOYANCY",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "TURBINE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a physics term?",
+        "answer": "ENGINE",
+        "category": "physics"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PROCESSOR",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "MEMORY",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "STORAGE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "DISPLAY",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PRINTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SCANNER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CAMERA",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "MICROPHONE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SPEAKER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CHARGER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "ADAPTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CABLE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SOCKET",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PLUGIN",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "WIDGET",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CANVAS",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "FRAME",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "LABEL",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "ENTRY",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "GRID",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PACK",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PLACE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "EVENT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "BIND",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CLICK",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "TOUCH",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "FOCUS",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "THREAD",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "TIMER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "RANDOM",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SHUFFLE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SORT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SEARCH",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "FILTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "EXPORT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "IMPORTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PARSER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "TOKEN",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "PROMPT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "MODEL",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "NEURAL",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "TRAINING",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "DATASET",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "BACKPROP",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "ENCRYPT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "HASH",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "NONCE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "LOGIN",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "LOGOUT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SESSION",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "DOMAIN",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "HOSTING",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "WEBSITE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "BLOG",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "THEME",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "HEADER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "FOOTER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SIDEBAR",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SHORTCODE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SITEMAP",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CANONICAL",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "INDEXING",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CHROMEBOOK",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "CROSTINI",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "FLATPAK",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SNAP",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "APPIMAGE",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "DESKTOP",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "LAUNCHER",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a computer or technology term?",
+        "answer": "SHORTCUT",
+        "category": "technology"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "NUMBER",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "DIGIT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "EQUATION",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "FORMULA",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "THEOREM",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "PROOF",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "AXIOM",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "LOGARITHM",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "EXPONENT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SINE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "COSINE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "TANGENT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SECANT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "COSECANT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "COTANGENT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "TRIGONOMETRY",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "POLYGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "PENTAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "HEXAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "HEPTAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "OCTAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "NONAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "DECAGON",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "ELLIPSE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "PARABOLA",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "HYPERBOLA",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "FRACTAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "LIMIT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SERIES",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SEQUENCE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "MEAN",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "MEDIAN",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "MODE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "RANGE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "VARIANCE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "DEVIATION",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SAMPLE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "POPULATION",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "HISTOGRAM",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "SCATTERPLOT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "BARPLOT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "PIECHART",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "COORDINATE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "ORIGIN",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "QUADRANT",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "INVERSE",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "LINEAR",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "QUADRATIC",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "CUBIC",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "POLYNOMIAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "MONOMIAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "BINOMIAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "RADICAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "INTEGRAL",
+        "category": "math"
+    },
+    {
+        "clue": "What is a mathematics term?",
+        "answer": "DERIVATIVE",
+        "category": "math"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "GEOLOGY",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MINERAL",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "ROCK",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "GRANITE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "BASALT",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "LIMESTONE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SANDSTONE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SHALE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MARBLE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SLATE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "QUARTZ",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FELDSPAR",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MICA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CRYSTAL",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MAGMA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "LAVA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "VOLCANO",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "EARTHQUAKE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "TSUNAMI",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FAULT",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "PLATE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "TECTONIC",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MANTLE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CRUST",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CORE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SEISMIC",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "EROSION",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "WEATHERING",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SEDIMENT",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "DELTA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CANYON",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "VALLEY",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "GLACIER",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "ICEBERG",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FJORD",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "DESERT",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FOREST",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "TUNDRA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SAVANNA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "OCEAN",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SEA",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "LAKE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "RIVER",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "STREAM",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "AQUIFER",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "ATMOSPHERE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CLIMATE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "WEATHER",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "CLOUD",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "RAIN",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "SNOW",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "HAIL",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FOG",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MIST",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "STORM",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "HURRICANE",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "TORNADO",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "MONSOON",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "DROUGHT",
+        "category": "earth"
+    },
+    {
+        "clue": "What is an Earth science term?",
+        "answer": "FLOOD",
+        "category": "earth"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "PULSE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "FEVER",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "COUGH",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "ALLERGY",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "ASTHMA",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "MIGRAINE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "AURA",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "TINNITUS",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "VISION",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "HEARING",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "BALANCE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "REFLEX",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "PAIN",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "MEDICINE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "TABLET",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "CAPSULE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "DOSE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "SYRINGE",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "INFECTION",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "IMMUNITY",
+        "category": "medicine"
+    },
+    {
+        "clue": "What is a medical science term?",
+        "answer": "DIAGNOSIS",
+        "category": "medicine"
+    }
+]
